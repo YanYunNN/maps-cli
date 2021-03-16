@@ -1,0 +1,1112 @@
+2021-03-11 10:07:13,715 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:07:13,716 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61892, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61892,1382844099044500
+
+2021-03-11 10:07:13,716 INFO send udp packet: 192.168.43.1,61892,1382844099044500
+
+2021-03-11 10:07:23,718 INFO retry to push data, key: 192.168.43.1,61892,1382844099044500
+
+2021-03-11 10:07:23,718 INFO send udp packet: 192.168.43.1,61892,1382844099044500
+
+2021-03-11 10:07:33,721 INFO retry to push data, key: 192.168.43.1,61892,1382844099044500
+
+2021-03-11 10:07:33,726 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61892,1382844099044500
+
+2021-03-11 10:19:29,037 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:19:29,037 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61892, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61892,1383579419735500
+
+2021-03-11 10:19:29,037 INFO send udp packet: 192.168.43.1,61892,1383579419735500
+
+2021-03-11 10:19:39,039 INFO retry to push data, key: 192.168.43.1,61892,1383579419735500
+
+2021-03-11 10:19:39,039 INFO send udp packet: 192.168.43.1,61892,1383579419735500
+
+2021-03-11 10:19:49,040 INFO retry to push data, key: 192.168.43.1,61892,1383579419735500
+
+2021-03-11 10:19:49,040 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61892,1383579419735500
+
+2021-03-11 10:19:51,886 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:19:51,886 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55230, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55230,1383602268725300
+
+2021-03-11 10:19:51,886 INFO send udp packet: 192.168.43.1,55230,1383602268725300
+
+2021-03-11 10:20:01,888 INFO retry to push data, key: 192.168.43.1,55230,1383602268725300
+
+2021-03-11 10:20:01,888 INFO send udp packet: 192.168.43.1,55230,1383602268725300
+
+2021-03-11 10:20:11,890 INFO retry to push data, key: 192.168.43.1,55230,1383602268725300
+
+2021-03-11 10:20:11,890 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55230,1383602268725300
+
+2021-03-11 10:22:30,930 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:22:30,930 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55230, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55230,1383761312737900
+
+2021-03-11 10:22:30,930 INFO send udp packet: 192.168.43.1,55230,1383761312737900
+
+2021-03-11 10:22:40,932 INFO retry to push data, key: 192.168.43.1,55230,1383761312737900
+
+2021-03-11 10:22:40,932 INFO send udp packet: 192.168.43.1,55230,1383761312737900
+
+2021-03-11 10:22:50,934 INFO retry to push data, key: 192.168.43.1,55230,1383761312737900
+
+2021-03-11 10:22:50,934 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55230,1383761312737900
+
+2021-03-11 10:22:56,796 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:22:56,796 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:52782, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,52782,1383787178732200
+
+2021-03-11 10:22:56,796 INFO send udp packet: 192.168.43.1,52782,1383787178732200
+
+2021-03-11 10:23:06,797 INFO retry to push data, key: 192.168.43.1,52782,1383787178732200
+
+2021-03-11 10:23:06,797 INFO send udp packet: 192.168.43.1,52782,1383787178732200
+
+2021-03-11 10:23:16,798 INFO retry to push data, key: 192.168.43.1,52782,1383787178732200
+
+2021-03-11 10:23:16,798 WARN max re-push times reached, retry times 2, key: 192.168.43.1,52782,1383787178732200
+
+2021-03-11 10:24:08,937 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:24:23,943 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:25:46,300 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:25:46,300 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:64493, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,64493,1383956682942900
+
+2021-03-11 10:25:46,300 INFO send udp packet: 192.168.43.1,64493,1383956682942900
+
+2021-03-11 10:25:46,301 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:52782, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,52782,1383956682942900
+
+2021-03-11 10:25:46,301 INFO send udp packet: 192.168.43.1,52782,1383956682942900
+
+2021-03-11 10:25:56,301 INFO retry to push data, key: 192.168.43.1,64493,1383956682942900
+
+2021-03-11 10:25:56,301 INFO send udp packet: 192.168.43.1,64493,1383956682942900
+
+2021-03-11 10:25:56,301 INFO retry to push data, key: 192.168.43.1,52782,1383956682942900
+
+2021-03-11 10:25:56,301 INFO send udp packet: 192.168.43.1,52782,1383956682942900
+
+2021-03-11 10:26:06,302 INFO retry to push data, key: 192.168.43.1,64493,1383956682942900
+
+2021-03-11 10:26:06,302 WARN max re-push times reached, retry times 2, key: 192.168.43.1,64493,1383956682942900
+
+2021-03-11 10:26:06,302 INFO retry to push data, key: 192.168.43.1,52782,1383956682942900
+
+2021-03-11 10:26:06,302 WARN max re-push times reached, retry times 2, key: 192.168.43.1,52782,1383956682942900
+
+2021-03-11 10:41:00,314 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:41:00,314 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:52782, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,52782,1384870697123400
+
+2021-03-11 10:41:00,315 INFO send udp packet: 192.168.43.1,52782,1384870697123400
+
+2021-03-11 10:41:10,316 INFO retry to push data, key: 192.168.43.1,52782,1384870697123400
+
+2021-03-11 10:41:10,316 INFO send udp packet: 192.168.43.1,52782,1384870697123400
+
+2021-03-11 10:41:20,317 INFO retry to push data, key: 192.168.43.1,52782,1384870697123400
+
+2021-03-11 10:41:20,317 WARN max re-push times reached, retry times 2, key: 192.168.43.1,52782,1384870697123400
+
+2021-03-11 10:41:45,642 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:41:45,642 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56765, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56765,1384916024714000
+
+2021-03-11 10:41:45,642 INFO send udp packet: 192.168.43.1,56765,1384916024714000
+
+2021-03-11 10:41:55,643 INFO retry to push data, key: 192.168.43.1,56765,1384916024714000
+
+2021-03-11 10:41:55,643 INFO send udp packet: 192.168.43.1,56765,1384916024714000
+
+2021-03-11 10:42:05,644 INFO retry to push data, key: 192.168.43.1,56765,1384916024714000
+
+2021-03-11 10:42:05,644 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56765,1384916024714000
+
+2021-03-11 10:42:20,172 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:42:20,172 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56765, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56765,1384950554683900
+
+2021-03-11 10:42:20,172 INFO send udp packet: 192.168.43.1,56765,1384950554683900
+
+2021-03-11 10:42:30,174 INFO retry to push data, key: 192.168.43.1,56765,1384950554683900
+
+2021-03-11 10:42:30,174 INFO send udp packet: 192.168.43.1,56765,1384950554683900
+
+2021-03-11 10:42:40,176 INFO retry to push data, key: 192.168.43.1,56765,1384950554683900
+
+2021-03-11 10:42:40,176 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56765,1384950554683900
+
+2021-03-11 10:42:55,114 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:42:55,114 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:57810, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57810,1384985496692800
+
+2021-03-11 10:42:55,114 INFO send udp packet: 192.168.43.1,57810,1384985496692800
+
+2021-03-11 10:43:05,115 INFO retry to push data, key: 192.168.43.1,57810,1384985496692800
+
+2021-03-11 10:43:05,115 INFO send udp packet: 192.168.43.1,57810,1384985496692800
+
+2021-03-11 10:43:15,116 INFO retry to push data, key: 192.168.43.1,57810,1384985496692800
+
+2021-03-11 10:43:15,116 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57810,1384985496692800
+
+2021-03-11 10:52:23,375 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:52:23,375 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:57810, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57810,1385553757708200
+
+2021-03-11 10:52:23,375 INFO send udp packet: 192.168.43.1,57810,1385553757708200
+
+2021-03-11 10:52:33,376 INFO retry to push data, key: 192.168.43.1,57810,1385553757708200
+
+2021-03-11 10:52:33,376 INFO send udp packet: 192.168.43.1,57810,1385553757708200
+
+2021-03-11 10:52:43,377 INFO retry to push data, key: 192.168.43.1,57810,1385553757708200
+
+2021-03-11 10:52:43,377 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57810,1385553757708200
+
+2021-03-11 10:52:50,923 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:52:50,923 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:54352, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54352,1385581305691300
+
+2021-03-11 10:52:50,923 INFO send udp packet: 192.168.43.1,54352,1385581305691300
+
+2021-03-11 10:53:00,924 INFO retry to push data, key: 192.168.43.1,54352,1385581305691300
+
+2021-03-11 10:53:00,924 INFO send udp packet: 192.168.43.1,54352,1385581305691300
+
+2021-03-11 10:53:10,927 INFO retry to push data, key: 192.168.43.1,54352,1385581305691300
+
+2021-03-11 10:53:10,927 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54352,1385581305691300
+
+2021-03-11 10:56:27,198 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:56:27,198 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:54352, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54352,1385797580687900
+
+2021-03-11 10:56:27,198 INFO send udp packet: 192.168.43.1,54352,1385797580687900
+
+2021-03-11 10:56:37,199 INFO retry to push data, key: 192.168.43.1,54352,1385797580687900
+
+2021-03-11 10:56:37,199 INFO send udp packet: 192.168.43.1,54352,1385797580687900
+
+2021-03-11 10:56:47,200 INFO retry to push data, key: 192.168.43.1,54352,1385797580687900
+
+2021-03-11 10:56:47,200 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54352,1385797580687900
+
+2021-03-11 10:56:52,712 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:56:52,712 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61172, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61172,1385823094704100
+
+2021-03-11 10:56:52,712 INFO send udp packet: 192.168.43.1,61172,1385823094704100
+
+2021-03-11 10:57:02,713 INFO retry to push data, key: 192.168.43.1,61172,1385823094704100
+
+2021-03-11 10:57:02,713 INFO send udp packet: 192.168.43.1,61172,1385823094704100
+
+2021-03-11 10:57:12,714 INFO retry to push data, key: 192.168.43.1,61172,1385823094704100
+
+2021-03-11 10:57:12,714 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61172,1385823094704100
+
+2021-03-11 10:59:30,174 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 10:59:30,174 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61172, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61172,1385980556659000
+
+2021-03-11 10:59:30,174 INFO send udp packet: 192.168.43.1,61172,1385980556659000
+
+2021-03-11 10:59:40,176 INFO retry to push data, key: 192.168.43.1,61172,1385980556659000
+
+2021-03-11 10:59:40,176 INFO send udp packet: 192.168.43.1,61172,1385980556659000
+
+2021-03-11 10:59:50,177 INFO retry to push data, key: 192.168.43.1,61172,1385980556659000
+
+2021-03-11 10:59:50,177 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61172,1385980556659000
+
+2021-03-11 11:03:24,689 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:03:24,689 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56978, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56978,1386215071730100
+
+2021-03-11 11:03:24,689 INFO send udp packet: 192.168.43.1,56978,1386215071730100
+
+2021-03-11 11:03:34,690 INFO retry to push data, key: 192.168.43.1,56978,1386215071730100
+
+2021-03-11 11:03:34,690 INFO send udp packet: 192.168.43.1,56978,1386215071730100
+
+2021-03-11 11:03:44,692 INFO retry to push data, key: 192.168.43.1,56978,1386215071730100
+
+2021-03-11 11:03:44,692 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56978,1386215071730100
+
+2021-03-11 11:05:57,206 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:05:57,206 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56978, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56978,1386367588736700
+
+2021-03-11 11:05:57,206 INFO send udp packet: 192.168.43.1,56978,1386367588736700
+
+2021-03-11 11:06:07,207 INFO retry to push data, key: 192.168.43.1,56978,1386367588736700
+
+2021-03-11 11:06:07,207 INFO send udp packet: 192.168.43.1,56978,1386367588736700
+
+2021-03-11 11:06:17,208 INFO retry to push data, key: 192.168.43.1,56978,1386367588736700
+
+2021-03-11 11:06:17,208 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56978,1386367588736700
+
+2021-03-11 11:06:31,566 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:06:31,566 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:62676, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,62676,1386401948684700
+
+2021-03-11 11:06:31,566 INFO send udp packet: 192.168.43.1,62676,1386401948684700
+
+2021-03-11 11:06:41,567 INFO retry to push data, key: 192.168.43.1,62676,1386401948684700
+
+2021-03-11 11:06:41,567 INFO send udp packet: 192.168.43.1,62676,1386401948684700
+
+2021-03-11 11:06:51,568 INFO retry to push data, key: 192.168.43.1,62676,1386401948684700
+
+2021-03-11 11:06:51,568 WARN max re-push times reached, retry times 2, key: 192.168.43.1,62676,1386401948684700
+
+2021-03-11 11:08:08,192 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:08:08,192 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:62676, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,62676,1386498574706000
+
+2021-03-11 11:08:08,192 INFO send udp packet: 192.168.43.1,62676,1386498574706000
+
+2021-03-11 11:08:18,194 INFO retry to push data, key: 192.168.43.1,62676,1386498574706000
+
+2021-03-11 11:08:18,194 INFO send udp packet: 192.168.43.1,62676,1386498574706000
+
+2021-03-11 11:08:28,196 INFO retry to push data, key: 192.168.43.1,62676,1386498574706000
+
+2021-03-11 11:08:28,196 WARN max re-push times reached, retry times 2, key: 192.168.43.1,62676,1386498574706000
+
+2021-03-11 11:08:37,215 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:08:37,215 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:51334, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,51334,1386527597709600
+
+2021-03-11 11:08:37,215 INFO send udp packet: 192.168.43.1,51334,1386527597709600
+
+2021-03-11 11:08:47,216 INFO retry to push data, key: 192.168.43.1,51334,1386527597709600
+
+2021-03-11 11:08:47,216 INFO send udp packet: 192.168.43.1,51334,1386527597709600
+
+2021-03-11 11:08:57,219 INFO retry to push data, key: 192.168.43.1,51334,1386527597709600
+
+2021-03-11 11:08:57,219 WARN max re-push times reached, retry times 2, key: 192.168.43.1,51334,1386527597709600
+
+2021-03-11 11:10:00,501 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:10:00,501 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:51334, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,51334,1386610883721000
+
+2021-03-11 11:10:00,501 INFO send udp packet: 192.168.43.1,51334,1386610883721000
+
+2021-03-11 11:10:10,502 INFO retry to push data, key: 192.168.43.1,51334,1386610883721000
+
+2021-03-11 11:10:10,502 INFO send udp packet: 192.168.43.1,51334,1386610883721000
+
+2021-03-11 11:10:20,503 INFO retry to push data, key: 192.168.43.1,51334,1386610883721000
+
+2021-03-11 11:10:20,503 WARN max re-push times reached, retry times 2, key: 192.168.43.1,51334,1386610883721000
+
+2021-03-11 11:10:24,519 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:10:24,519 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:53338, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,53338,1386634901897200
+
+2021-03-11 11:10:24,519 INFO send udp packet: 192.168.43.1,53338,1386634901897200
+
+2021-03-11 11:10:34,521 INFO retry to push data, key: 192.168.43.1,53338,1386634901897200
+
+2021-03-11 11:10:34,521 INFO send udp packet: 192.168.43.1,53338,1386634901897200
+
+2021-03-11 11:10:44,522 INFO retry to push data, key: 192.168.43.1,53338,1386634901897200
+
+2021-03-11 11:10:44,522 WARN max re-push times reached, retry times 2, key: 192.168.43.1,53338,1386634901897200
+
+2021-03-11 11:11:37,931 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:11:37,931 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:53338, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,53338,1386708313702100
+
+2021-03-11 11:11:37,931 INFO send udp packet: 192.168.43.1,53338,1386708313702100
+
+2021-03-11 11:11:47,932 INFO retry to push data, key: 192.168.43.1,53338,1386708313702100
+
+2021-03-11 11:11:47,932 INFO send udp packet: 192.168.43.1,53338,1386708313702100
+
+2021-03-11 11:11:57,934 INFO retry to push data, key: 192.168.43.1,53338,1386708313702100
+
+2021-03-11 11:11:57,934 WARN max re-push times reached, retry times 2, key: 192.168.43.1,53338,1386708313702100
+
+2021-03-11 11:12:06,421 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:12:06,421 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:52042, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,52042,1386736803816000
+
+2021-03-11 11:12:06,421 INFO send udp packet: 192.168.43.1,52042,1386736803816000
+
+2021-03-11 11:12:16,422 INFO retry to push data, key: 192.168.43.1,52042,1386736803816000
+
+2021-03-11 11:12:16,422 INFO send udp packet: 192.168.43.1,52042,1386736803816000
+
+2021-03-11 11:12:26,423 INFO retry to push data, key: 192.168.43.1,52042,1386736803816000
+
+2021-03-11 11:12:26,423 WARN max re-push times reached, retry times 2, key: 192.168.43.1,52042,1386736803816000
+
+2021-03-11 11:30:05,686 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:30:05,686 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:52042, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,52042,1387816068723000
+
+2021-03-11 11:30:05,686 INFO send udp packet: 192.168.43.1,52042,1387816068723000
+
+2021-03-11 11:30:15,687 INFO retry to push data, key: 192.168.43.1,52042,1387816068723000
+
+2021-03-11 11:30:15,687 INFO send udp packet: 192.168.43.1,52042,1387816068723000
+
+2021-03-11 11:30:25,689 INFO retry to push data, key: 192.168.43.1,52042,1387816068723000
+
+2021-03-11 11:30:25,689 WARN max re-push times reached, retry times 2, key: 192.168.43.1,52042,1387816068723000
+
+2021-03-11 11:37:50,268 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:37:50,268 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:50672, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,50672,1388280650903300
+
+2021-03-11 11:37:50,268 INFO send udp packet: 192.168.43.1,50672,1388280650903300
+
+2021-03-11 11:38:00,270 INFO retry to push data, key: 192.168.43.1,50672,1388280650903300
+
+2021-03-11 11:38:00,270 INFO send udp packet: 192.168.43.1,50672,1388280650903300
+
+2021-03-11 11:38:06,987 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:38:06,987 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:50672, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,50672,1388297369682800
+
+2021-03-11 11:38:06,987 INFO send udp packet: 192.168.43.1,50672,1388297369682800
+
+2021-03-11 11:38:10,271 INFO retry to push data, key: 192.168.43.1,50672,1388280650903300
+
+2021-03-11 11:38:10,271 WARN max re-push times reached, retry times 2, key: 192.168.43.1,50672,1388280650903300
+
+2021-03-11 11:38:16,988 INFO retry to push data, key: 192.168.43.1,50672,1388297369682800
+
+2021-03-11 11:38:16,988 INFO send udp packet: 192.168.43.1,50672,1388297369682800
+
+2021-03-11 11:38:26,989 INFO retry to push data, key: 192.168.43.1,50672,1388297369682800
+
+2021-03-11 11:38:26,989 WARN max re-push times reached, retry times 2, key: 192.168.43.1,50672,1388297369682800
+
+2021-03-11 11:38:51,932 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:38:51,932 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58203, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58203,1388342314693100
+
+2021-03-11 11:38:51,932 INFO send udp packet: 192.168.43.1,58203,1388342314693100
+
+2021-03-11 11:39:01,933 INFO retry to push data, key: 192.168.43.1,58203,1388342314693100
+
+2021-03-11 11:39:01,933 INFO send udp packet: 192.168.43.1,58203,1388342314693100
+
+2021-03-11 11:39:11,934 INFO retry to push data, key: 192.168.43.1,58203,1388342314693100
+
+2021-03-11 11:39:11,934 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58203,1388342314693100
+
+2021-03-11 11:39:35,287 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:39:39,010 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 11:39:39,010 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58203, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58203,1388389392729500
+
+2021-03-11 11:39:39,010 INFO send udp packet: 192.168.43.1,58203,1388389392729500
+
+2021-03-11 11:39:49,012 INFO retry to push data, key: 192.168.43.1,58203,1388389392729500
+
+2021-03-11 11:39:49,012 INFO send udp packet: 192.168.43.1,58203,1388389392729500
+
+2021-03-11 11:39:59,014 INFO retry to push data, key: 192.168.43.1,58203,1388389392729500
+
+2021-03-11 11:39:59,014 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58203,1388389392729500
+
+2021-03-11 12:01:38,420 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:01:38,420 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58203, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58203,1389708802908100
+
+2021-03-11 12:01:38,421 INFO send udp packet: 192.168.43.1,58203,1389708802908100
+
+2021-03-11 12:01:48,422 INFO retry to push data, key: 192.168.43.1,58203,1389708802908100
+
+2021-03-11 12:01:48,422 INFO send udp packet: 192.168.43.1,58203,1389708802908100
+
+2021-03-11 12:01:58,423 INFO retry to push data, key: 192.168.43.1,58203,1389708802908100
+
+2021-03-11 12:01:58,423 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58203,1389708802908100
+
+2021-03-11 12:04:00,814 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:04:00,814 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:57860, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57860,1389851196524900
+
+2021-03-11 12:04:00,814 INFO send udp packet: 192.168.43.1,57860,1389851196524900
+
+2021-03-11 12:04:10,815 INFO retry to push data, key: 192.168.43.1,57860,1389851196524900
+
+2021-03-11 12:04:10,815 INFO send udp packet: 192.168.43.1,57860,1389851196524900
+
+2021-03-11 12:04:20,816 INFO retry to push data, key: 192.168.43.1,57860,1389851196524900
+
+2021-03-11 12:04:20,816 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57860,1389851196524900
+
+2021-03-11 12:11:16,826 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:11:16,826 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:57860, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57860,1390287209186700
+
+2021-03-11 12:11:16,826 INFO send udp packet: 192.168.43.1,57860,1390287209186700
+
+2021-03-11 12:11:26,827 INFO retry to push data, key: 192.168.43.1,57860,1390287209186700
+
+2021-03-11 12:11:26,827 INFO send udp packet: 192.168.43.1,57860,1390287209186700
+
+2021-03-11 12:11:36,828 INFO retry to push data, key: 192.168.43.1,57860,1390287209186700
+
+2021-03-11 12:11:36,828 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57860,1390287209186700
+
+2021-03-11 12:11:45,857 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:11:45,857 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58341, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58341,1390316240233400
+
+2021-03-11 12:11:45,857 INFO send udp packet: 192.168.43.1,58341,1390316240233400
+
+2021-03-11 12:11:55,858 INFO retry to push data, key: 192.168.43.1,58341,1390316240233400
+
+2021-03-11 12:11:55,858 INFO send udp packet: 192.168.43.1,58341,1390316240233400
+
+2021-03-11 12:12:05,860 INFO retry to push data, key: 192.168.43.1,58341,1390316240233400
+
+2021-03-11 12:12:05,860 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58341,1390316240233400
+
+2021-03-11 12:18:26,244 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:18:26,244 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58341, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58341,1390716627251800
+
+2021-03-11 12:18:26,244 INFO send udp packet: 192.168.43.1,58341,1390716627251800
+
+2021-03-11 12:18:36,246 INFO retry to push data, key: 192.168.43.1,58341,1390716627251800
+
+2021-03-11 12:18:36,246 INFO send udp packet: 192.168.43.1,58341,1390716627251800
+
+2021-03-11 12:18:46,247 INFO retry to push data, key: 192.168.43.1,58341,1390716627251800
+
+2021-03-11 12:18:46,247 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58341,1390716627251800
+
+2021-03-11 12:19:03,711 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:19:03,711 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:54232, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54232,1390754094184700
+
+2021-03-11 12:19:03,711 INFO send udp packet: 192.168.43.1,54232,1390754094184700
+
+2021-03-11 12:19:13,712 INFO retry to push data, key: 192.168.43.1,54232,1390754094184700
+
+2021-03-11 12:19:13,712 INFO send udp packet: 192.168.43.1,54232,1390754094184700
+
+2021-03-11 12:19:23,714 INFO retry to push data, key: 192.168.43.1,54232,1390754094184700
+
+2021-03-11 12:19:23,714 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54232,1390754094184700
+
+2021-03-11 12:20:42,397 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:20:42,397 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:54232, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54232,1390852780223900
+
+2021-03-11 12:20:42,397 INFO send udp packet: 192.168.43.1,54232,1390852780223900
+
+2021-03-11 12:20:52,399 INFO retry to push data, key: 192.168.43.1,54232,1390852780223900
+
+2021-03-11 12:20:52,399 INFO send udp packet: 192.168.43.1,54232,1390852780223900
+
+2021-03-11 12:21:02,401 INFO retry to push data, key: 192.168.43.1,54232,1390852780223900
+
+2021-03-11 12:21:02,401 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54232,1390852780223900
+
+2021-03-11 12:21:08,583 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:21:08,583 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:60944, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,60944,1390878966233300
+
+2021-03-11 12:21:08,583 INFO send udp packet: 192.168.43.1,60944,1390878966233300
+
+2021-03-11 12:21:18,584 INFO retry to push data, key: 192.168.43.1,60944,1390878966233300
+
+2021-03-11 12:21:18,584 INFO send udp packet: 192.168.43.1,60944,1390878966233300
+
+2021-03-11 12:21:28,585 INFO retry to push data, key: 192.168.43.1,60944,1390878966233300
+
+2021-03-11 12:21:28,585 WARN max re-push times reached, retry times 2, key: 192.168.43.1,60944,1390878966233300
+
+2021-03-11 12:21:52,455 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:21:52,455 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:60944, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,60944,1390922838258200
+
+2021-03-11 12:21:52,455 INFO send udp packet: 192.168.43.1,60944,1390922838258200
+
+2021-03-11 12:22:02,456 INFO retry to push data, key: 192.168.43.1,60944,1390922838258200
+
+2021-03-11 12:22:02,456 INFO send udp packet: 192.168.43.1,60944,1390922838258200
+
+2021-03-11 12:22:12,458 INFO retry to push data, key: 192.168.43.1,60944,1390922838258200
+
+2021-03-11 12:22:12,458 WARN max re-push times reached, retry times 2, key: 192.168.43.1,60944,1390922838258200
+
+2021-03-11 12:23:10,754 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:23:10,754 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56496, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56496,1391001137200100
+
+2021-03-11 12:23:10,754 INFO send udp packet: 192.168.43.1,56496,1391001137200100
+
+2021-03-11 12:23:20,755 INFO retry to push data, key: 192.168.43.1,56496,1391001137200100
+
+2021-03-11 12:23:20,755 INFO send udp packet: 192.168.43.1,56496,1391001137200100
+
+2021-03-11 12:23:30,756 INFO retry to push data, key: 192.168.43.1,56496,1391001137200100
+
+2021-03-11 12:23:30,756 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56496,1391001137200100
+
+2021-03-11 12:24:09,309 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:24:09,309 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56496, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56496,1391059692288800
+
+2021-03-11 12:24:09,309 INFO send udp packet: 192.168.43.1,56496,1391059692288800
+
+2021-03-11 12:24:19,310 INFO retry to push data, key: 192.168.43.1,56496,1391059692288800
+
+2021-03-11 12:24:19,310 INFO send udp packet: 192.168.43.1,56496,1391059692288800
+
+2021-03-11 12:24:29,313 INFO retry to push data, key: 192.168.43.1,56496,1391059692288800
+
+2021-03-11 12:24:29,313 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56496,1391059692288800
+
+2021-03-11 12:24:32,991 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:24:32,991 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55848, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55848,1391083374296800
+
+2021-03-11 12:24:32,991 INFO send udp packet: 192.168.43.1,55848,1391083374296800
+
+2021-03-11 12:24:42,992 INFO retry to push data, key: 192.168.43.1,55848,1391083374296800
+
+2021-03-11 12:24:42,992 INFO send udp packet: 192.168.43.1,55848,1391083374296800
+
+2021-03-11 12:24:52,994 INFO retry to push data, key: 192.168.43.1,55848,1391083374296800
+
+2021-03-11 12:24:52,994 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55848,1391083374296800
+
+2021-03-11 12:25:11,083 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:25:17,283 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:25:17,283 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55848, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55848,1391127666280600
+
+2021-03-11 12:25:17,283 INFO send udp packet: 192.168.43.1,55848,1391127666280600
+
+2021-03-11 12:25:27,285 INFO retry to push data, key: 192.168.43.1,55848,1391127666280600
+
+2021-03-11 12:25:27,285 INFO send udp packet: 192.168.43.1,55848,1391127666280600
+
+2021-03-11 12:25:37,286 INFO retry to push data, key: 192.168.43.1,55848,1391127666280600
+
+2021-03-11 12:25:37,286 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55848,1391127666280600
+
+2021-03-11 12:32:16,674 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:32:16,674 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55848, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55848,1391547057276600
+
+2021-03-11 12:32:16,674 INFO send udp packet: 192.168.43.1,55848,1391547057276600
+
+2021-03-11 12:32:26,675 INFO retry to push data, key: 192.168.43.1,55848,1391547057276600
+
+2021-03-11 12:32:26,675 INFO send udp packet: 192.168.43.1,55848,1391547057276600
+
+2021-03-11 12:32:36,676 INFO retry to push data, key: 192.168.43.1,55848,1391547057276600
+
+2021-03-11 12:32:36,676 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55848,1391547057276600
+
+2021-03-11 12:32:39,104 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:32:39,104 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56607, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56607,1391569487241100
+
+2021-03-11 12:32:39,104 INFO send udp packet: 192.168.43.1,56607,1391569487241100
+
+2021-03-11 12:32:49,106 INFO retry to push data, key: 192.168.43.1,56607,1391569487241100
+
+2021-03-11 12:32:49,106 INFO send udp packet: 192.168.43.1,56607,1391569487241100
+
+2021-03-11 12:32:59,112 INFO retry to push data, key: 192.168.43.1,56607,1391569487241100
+
+2021-03-11 12:32:59,114 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56607,1391569487241100
+
+2021-03-11 12:36:28,410 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:36:28,410 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:56607, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,56607,1391798793264100
+
+2021-03-11 12:36:28,410 INFO send udp packet: 192.168.43.1,56607,1391798793264100
+
+2021-03-11 12:36:38,411 INFO retry to push data, key: 192.168.43.1,56607,1391798793264100
+
+2021-03-11 12:36:38,411 INFO send udp packet: 192.168.43.1,56607,1391798793264100
+
+2021-03-11 12:36:48,412 INFO retry to push data, key: 192.168.43.1,56607,1391798793264100
+
+2021-03-11 12:36:48,412 WARN max re-push times reached, retry times 2, key: 192.168.43.1,56607,1391798793264100
+
+2021-03-11 12:36:52,079 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:36:52,079 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:54167, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54167,1391822462225500
+
+2021-03-11 12:36:52,079 INFO send udp packet: 192.168.43.1,54167,1391822462225500
+
+2021-03-11 12:37:02,081 INFO retry to push data, key: 192.168.43.1,54167,1391822462225500
+
+2021-03-11 12:37:02,081 INFO send udp packet: 192.168.43.1,54167,1391822462225500
+
+2021-03-11 12:37:12,082 INFO retry to push data, key: 192.168.43.1,54167,1391822462225500
+
+2021-03-11 12:37:12,082 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54167,1391822462225500
+
+2021-03-11 12:37:44,801 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:37:44,801 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:54167, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54167,1391875184266000
+
+2021-03-11 12:37:44,801 INFO send udp packet: 192.168.43.1,54167,1391875184266000
+
+2021-03-11 12:37:54,802 INFO retry to push data, key: 192.168.43.1,54167,1391875184266000
+
+2021-03-11 12:37:54,802 INFO send udp packet: 192.168.43.1,54167,1391875184266000
+
+2021-03-11 12:38:04,803 INFO retry to push data, key: 192.168.43.1,54167,1391875184266000
+
+2021-03-11 12:38:04,803 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54167,1391875184266000
+
+2021-03-11 12:38:52,591 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:38:52,591 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61551, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61551,1391942974191900
+
+2021-03-11 12:38:52,591 INFO send udp packet: 192.168.43.1,61551,1391942974191900
+
+2021-03-11 12:39:02,592 INFO retry to push data, key: 192.168.43.1,61551,1391942974191900
+
+2021-03-11 12:39:02,592 INFO send udp packet: 192.168.43.1,61551,1391942974191900
+
+2021-03-11 12:39:12,594 INFO retry to push data, key: 192.168.43.1,61551,1391942974191900
+
+2021-03-11 12:39:12,594 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61551,1391942974191900
+
+2021-03-11 12:40:03,556 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:40:03,556 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61551, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61551,1392013939250800
+
+2021-03-11 12:40:03,556 INFO send udp packet: 192.168.43.1,61551,1392013939250800
+
+2021-03-11 12:40:13,558 INFO retry to push data, key: 192.168.43.1,61551,1392013939250800
+
+2021-03-11 12:40:13,558 INFO send udp packet: 192.168.43.1,61551,1392013939250800
+
+2021-03-11 12:40:23,561 INFO retry to push data, key: 192.168.43.1,61551,1392013939250800
+
+2021-03-11 12:40:23,561 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61551,1392013939250800
+
+2021-03-11 12:40:26,587 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:40:26,587 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:59391, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,59391,1392036970176000
+
+2021-03-11 12:40:26,587 INFO send udp packet: 192.168.43.1,59391,1392036970176000
+
+2021-03-11 12:40:36,589 INFO retry to push data, key: 192.168.43.1,59391,1392036970176000
+
+2021-03-11 12:40:36,589 INFO send udp packet: 192.168.43.1,59391,1392036970176000
+
+2021-03-11 12:40:46,591 INFO retry to push data, key: 192.168.43.1,59391,1392036970176000
+
+2021-03-11 12:40:46,591 WARN max re-push times reached, retry times 2, key: 192.168.43.1,59391,1392036970176000
+
+2021-03-11 12:51:47,758 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:51:47,758 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:59391, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,59391,1392718141259700
+
+2021-03-11 12:51:47,758 INFO send udp packet: 192.168.43.1,59391,1392718141259700
+
+2021-03-11 12:51:57,759 INFO retry to push data, key: 192.168.43.1,59391,1392718141259700
+
+2021-03-11 12:51:57,759 INFO send udp packet: 192.168.43.1,59391,1392718141259700
+
+2021-03-11 12:52:07,761 INFO retry to push data, key: 192.168.43.1,59391,1392718141259700
+
+2021-03-11 12:52:07,761 WARN max re-push times reached, retry times 2, key: 192.168.43.1,59391,1392718141259700
+
+2021-03-11 12:53:45,361 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 12:53:45,361 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:57847, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57847,1392835744270900
+
+2021-03-11 12:53:45,361 INFO send udp packet: 192.168.43.1,57847,1392835744270900
+
+2021-03-11 12:53:55,362 INFO retry to push data, key: 192.168.43.1,57847,1392835744270900
+
+2021-03-11 12:53:55,362 INFO send udp packet: 192.168.43.1,57847,1392835744270900
+
+2021-03-11 12:54:05,364 INFO retry to push data, key: 192.168.43.1,57847,1392835744270900
+
+2021-03-11 12:54:05,364 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57847,1392835744270900
+
+2021-03-11 13:02:17,819 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:02:17,819 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:57847, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57847,1393348202276100
+
+2021-03-11 13:02:17,819 INFO send udp packet: 192.168.43.1,57847,1393348202276100
+
+2021-03-11 13:02:27,821 INFO retry to push data, key: 192.168.43.1,57847,1393348202276100
+
+2021-03-11 13:02:27,821 INFO send udp packet: 192.168.43.1,57847,1393348202276100
+
+2021-03-11 13:02:37,822 INFO retry to push data, key: 192.168.43.1,57847,1393348202276100
+
+2021-03-11 13:02:37,822 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57847,1393348202276100
+
+2021-03-11 13:17:35,826 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:17:35,826 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61884, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61884,1394266209372800
+
+2021-03-11 13:17:35,826 INFO send udp packet: 192.168.43.1,61884,1394266209372800
+
+2021-03-11 13:17:45,827 INFO retry to push data, key: 192.168.43.1,61884,1394266209372800
+
+2021-03-11 13:17:45,827 INFO send udp packet: 192.168.43.1,61884,1394266209372800
+
+2021-03-11 13:17:55,828 INFO retry to push data, key: 192.168.43.1,61884,1394266209372800
+
+2021-03-11 13:17:55,828 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61884,1394266209372800
+
+2021-03-11 13:22:35,291 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:22:35,291 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:61884, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,61884,1394565674067800
+
+2021-03-11 13:22:35,291 INFO send udp packet: 192.168.43.1,61884,1394565674067800
+
+2021-03-11 13:22:45,292 INFO retry to push data, key: 192.168.43.1,61884,1394565674067800
+
+2021-03-11 13:22:45,292 INFO send udp packet: 192.168.43.1,61884,1394565674067800
+
+2021-03-11 13:22:55,293 INFO retry to push data, key: 192.168.43.1,61884,1394565674067800
+
+2021-03-11 13:22:55,293 WARN max re-push times reached, retry times 2, key: 192.168.43.1,61884,1394565674067800
+
+2021-03-11 13:29:55,438 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:29:55,438 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58722, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58722,1395005820998900
+
+2021-03-11 13:29:55,438 INFO send udp packet: 192.168.43.1,58722,1395005820998900
+
+2021-03-11 13:30:05,440 INFO retry to push data, key: 192.168.43.1,58722,1395005820998900
+
+2021-03-11 13:30:05,440 INFO send udp packet: 192.168.43.1,58722,1395005820998900
+
+2021-03-11 13:30:15,443 INFO retry to push data, key: 192.168.43.1,58722,1395005820998900
+
+2021-03-11 13:30:15,443 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58722,1395005820998900
+
+2021-03-11 13:30:40,980 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:30:40,980 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:58722, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,58722,1395051363055200
+
+2021-03-11 13:30:40,980 INFO send udp packet: 192.168.43.1,58722,1395051363055200
+
+2021-03-11 13:30:50,981 INFO retry to push data, key: 192.168.43.1,58722,1395051363055200
+
+2021-03-11 13:30:50,981 INFO send udp packet: 192.168.43.1,58722,1395051363055200
+
+2021-03-11 13:31:00,982 INFO retry to push data, key: 192.168.43.1,58722,1395051363055200
+
+2021-03-11 13:31:00,982 WARN max re-push times reached, retry times 2, key: 192.168.43.1,58722,1395051363055200
+
+2021-03-11 13:31:13,082 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:31:13,082 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55835, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55835,1395083465046500
+
+2021-03-11 13:31:13,082 INFO send udp packet: 192.168.43.1,55835,1395083465046500
+
+2021-03-11 13:31:23,083 INFO retry to push data, key: 192.168.43.1,55835,1395083465046500
+
+2021-03-11 13:31:23,083 INFO send udp packet: 192.168.43.1,55835,1395083465046500
+
+2021-03-11 13:31:33,085 INFO retry to push data, key: 192.168.43.1,55835,1395083465046500
+
+2021-03-11 13:31:33,085 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55835,1395083465046500
+
+2021-03-11 13:41:58,245 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:41:58,245 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:55835, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,55835,1395728628053100
+
+2021-03-11 13:41:58,245 INFO send udp packet: 192.168.43.1,55835,1395728628053100
+
+2021-03-11 13:42:08,246 INFO retry to push data, key: 192.168.43.1,55835,1395728628053100
+
+2021-03-11 13:42:08,246 INFO send udp packet: 192.168.43.1,55835,1395728628053100
+
+2021-03-11 13:42:18,247 INFO retry to push data, key: 192.168.43.1,55835,1395728628053100
+
+2021-03-11 13:42:18,247 WARN max re-push times reached, retry times 2, key: 192.168.43.1,55835,1395728628053100
+
+2021-03-11 13:42:25,124 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:42:25,124 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:63401, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63401,1395755507057200
+
+2021-03-11 13:42:25,124 INFO send udp packet: 192.168.43.1,63401,1395755507057200
+
+2021-03-11 13:42:35,125 INFO retry to push data, key: 192.168.43.1,63401,1395755507057200
+
+2021-03-11 13:42:35,125 INFO send udp packet: 192.168.43.1,63401,1395755507057200
+
+2021-03-11 13:42:45,127 INFO retry to push data, key: 192.168.43.1,63401,1395755507057200
+
+2021-03-11 13:42:45,127 WARN max re-push times reached, retry times 2, key: 192.168.43.1,63401,1395755507057200
+
+2021-03-11 13:43:15,599 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:43:18,101 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 13:43:18,101 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:63401, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63401,1395808483996100
+
+2021-03-11 13:43:18,101 INFO send udp packet: 192.168.43.1,63401,1395808483996100
+
+2021-03-11 13:43:28,102 INFO retry to push data, key: 192.168.43.1,63401,1395808483996100
+
+2021-03-11 13:43:28,102 INFO send udp packet: 192.168.43.1,63401,1395808483996100
+
+2021-03-11 13:43:38,104 INFO retry to push data, key: 192.168.43.1,63401,1395808483996100
+
+2021-03-11 13:43:38,104 WARN max re-push times reached, retry times 2, key: 192.168.43.1,63401,1395808483996100
+
+2021-03-11 14:36:28,298 WARN client: 192.168.43.1:63279 already associated with key serviceName: DEFAULT_GROUP@@maps-auth, clusters: , address: /192.168.43.1:63279, agent: Nacos-Java-Client:v1.3.3
+
+2021-03-11 14:36:30,786 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:36:30,786 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:63279, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:30,786 INFO send udp packet: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:30,787 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:63279, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:30,787 INFO send udp packet: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:40,787 INFO retry to push data, key: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:40,787 INFO send udp packet: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:40,787 INFO retry to push data, key: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:40,787 INFO send udp packet: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:50,789 INFO retry to push data, key: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:36:50,789 WARN max re-push times reached, retry times 2, key: 192.168.43.1,63279,1399001168823900
+
+2021-03-11 14:38:10,163 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:38:10,163 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:63279, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:10,163 INFO send udp packet: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:10,163 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:63279, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:10,163 INFO send udp packet: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:20,164 INFO retry to push data, key: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:20,164 INFO send udp packet: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:20,164 INFO retry to push data, key: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:20,164 INFO send udp packet: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:30,165 INFO retry to push data, key: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:30,165 WARN max re-push times reached, retry times 2, key: 192.168.43.1,63279,1399100546160300
+
+2021-03-11 14:38:31,961 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:38:31,961 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:65289, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:31,961 INFO send udp packet: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:31,961 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:65289, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:31,961 INFO send udp packet: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:41,962 INFO retry to push data, key: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:41,962 INFO send udp packet: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:41,962 INFO retry to push data, key: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:41,962 INFO send udp packet: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:51,963 INFO retry to push data, key: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:38:51,963 WARN max re-push times reached, retry times 2, key: 192.168.43.1,65289,1399122344197100
+
+2021-03-11 14:39:46,279 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:39:46,279 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:65289, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:46,279 INFO send udp packet: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:46,279 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:65289, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:46,279 INFO send udp packet: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:56,280 INFO retry to push data, key: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:56,280 INFO send udp packet: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:56,280 INFO retry to push data, key: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:39:56,281 INFO send udp packet: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:40:06,281 INFO retry to push data, key: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:40:06,281 WARN max re-push times reached, retry times 2, key: 192.168.43.1,65289,1399196662247700
+
+2021-03-11 14:40:08,608 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:40:08,608 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:54622, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:08,608 INFO send udp packet: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:08,608 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:54622, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:08,608 INFO send udp packet: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:18,609 INFO retry to push data, key: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:18,609 INFO send udp packet: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:18,609 INFO retry to push data, key: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:18,609 INFO send udp packet: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:18,976 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:40:18,976 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:54622, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:18,976 INFO send udp packet: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:18,976 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:54622, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:18,976 INFO send udp packet: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:28,611 INFO retry to push data, key: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:28,611 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54622,1399218991184500
+
+2021-03-11 14:40:28,978 INFO retry to push data, key: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:28,978 INFO send udp packet: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:28,979 INFO retry to push data, key: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:28,979 INFO send udp packet: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:38,980 INFO retry to push data, key: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:38,980 WARN max re-push times reached, retry times 2, key: 192.168.43.1,54622,1399229359079200
+
+2021-03-11 14:40:44,143 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:40:44,143 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:59015, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:44,143 INFO send udp packet: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:44,143 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:59015, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:44,143 INFO send udp packet: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:54,144 INFO retry to push data, key: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:54,144 INFO send udp packet: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:54,144 INFO retry to push data, key: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:40:54,144 INFO send udp packet: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:41:04,146 INFO retry to push data, key: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:41:04,146 WARN max re-push times reached, retry times 2, key: 192.168.43.1,59015,1399254526206600
+
+2021-03-11 14:42:02,988 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:42:02,988 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:59015, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:02,988 INFO send udp packet: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:02,988 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:59015, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:02,988 INFO send udp packet: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:12,990 INFO retry to push data, key: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:12,990 INFO send udp packet: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:12,990 INFO retry to push data, key: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:12,990 INFO send udp packet: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:22,991 INFO retry to push data, key: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:22,991 WARN max re-push times reached, retry times 2, key: 192.168.43.1,59015,1399333371160300
+
+2021-03-11 14:42:25,211 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 14:42:25,211 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:57911, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:25,211 INFO send udp packet: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:25,211 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:57911, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:25,211 INFO send udp packet: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:35,212 INFO retry to push data, key: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:35,212 INFO send udp packet: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:35,212 INFO retry to push data, key: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:35,212 INFO send udp packet: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:45,213 INFO retry to push data, key: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 14:42:45,213 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57911,1399355594191500
+
+2021-03-11 15:05:32,047 INFO DEFAULT_GROUP@@maps-gateway is changed, add it to push queue.
+
+2021-03-11 15:05:32,047 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:57911, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:32,047 INFO send udp packet: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:32,047 INFO serviceName: DEFAULT_GROUP@@maps-gateway changed, schedule push for: 192.168.43.1:57911, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:32,047 INFO send udp packet: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:42,048 INFO retry to push data, key: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:42,048 INFO send udp packet: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:42,048 INFO retry to push data, key: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:42,048 INFO send udp packet: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:49,214 INFO DEFAULT_GROUP@@maps-auth is changed, add it to push queue.
+
+2021-03-11 15:05:49,214 INFO serviceName: DEFAULT_GROUP@@maps-auth changed, schedule push for: 192.168.43.1:63401, agent: Nacos-Java-Client:v1.3.3, key: 192.168.43.1,63401,1400759596894200
+
+2021-03-11 15:05:49,214 INFO send udp packet: 192.168.43.1,63401,1400759596894200
+
+2021-03-11 15:05:52,050 INFO retry to push data, key: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:52,050 WARN max re-push times reached, retry times 2, key: 192.168.43.1,57911,1400742429926200
+
+2021-03-11 15:05:59,215 INFO retry to push data, key: 192.168.43.1,63401,1400759596894200
+
+2021-03-11 15:05:59,215 INFO send udp packet: 192.168.43.1,63401,1400759596894200
+
+2021-03-11 15:06:09,218 INFO retry to push data, key: 192.168.43.1,63401,1400759596894200
+
+2021-03-11 15:06:09,218 WARN max re-push times reached, retry times 2, key: 192.168.43.1,63401,1400759596894200
+

@@ -1,0 +1,24 @@
+server:
+  servlet:
+    context-path: /
+# 微服务文档整合
+knife4j:
+  enableAggregation: true
+  nacos:
+    enable: true
+    serviceUrl: http://192.168.1.77:8848/nacos/
+    routes:
+      - name: 认证服务
+        serviceName: maps-auth
+        location: /v2/api-docs?group=default
+        servicePath: /auth
+      - name: 库存服务
+        serviceName: maps-ims
+        location: /v2/api-docs?group=default
+        servicePath: /ims
+# auctor
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

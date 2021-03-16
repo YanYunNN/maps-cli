@@ -1,0 +1,296 @@
+2021-03-11 10:07:12,714 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:07:12,714 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:19:28,036 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:19:28,037 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:19:50,885 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:19:50,885 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:22:29,929 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:22:29,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:22:55,794 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:22:55,794 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:24:07,936 INFO {POS} {IP-DISABLED} valid: 192.168.1.240:9002@DEFAULT@DEFAULT_GROUP@@maps-auth, region: unknown, msg: client timeout after 15000, last beat: 1615429431646
+
+2021-03-11 10:24:22,941 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-11 10:24:22,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:25:45,299 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:25:45,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:40:59,312 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:40:59,312 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:41:44,640 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:41:44,640 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:42:19,171 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:42:19,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:42:54,113 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:42:54,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:52:22,374 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:52:22,374 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:52:49,922 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:52:49,922 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:56:26,196 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:56:26,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 10:56:51,711 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:56:51,711 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 10:59:29,173 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 10:59:29,173 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:03:23,688 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:03:23,688 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:05:56,205 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:05:56,205 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:06:30,565 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:06:30,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:08:07,191 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:08:07,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:08:36,214 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:08:36,214 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:09:59,500 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:09:59,500 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:10:23,518 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:10:23,518 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:11:36,929 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:11:36,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:12:05,419 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:12:05,419 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:30:04,685 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:30:04,685 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:37:49,267 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:37:49,267 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:38:05,986 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:38:05,986 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 11:38:50,931 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 11:38:50,931 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 11:39:34,285 INFO {POS} {IP-DISABLED} valid: 192.168.1.240:9002@DEFAULT@DEFAULT_GROUP@@maps-auth, region: unknown, msg: client timeout after 15000, last beat: 1615433956508
+
+2021-03-11 11:39:38,009 INFO service: DEFAULT_GROUP@@maps-auth {POS} {IP-ENABLED} valid: 192.168.1.240:9002@DEFAULT, region: unknown, msg: client beat ok
+
+2021-03-11 12:01:37,419 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:01:37,419 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:03:59,813 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:03:59,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:11:15,824 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:11:15,824 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:11:44,855 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:11:44,855 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:18:25,243 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:18:25,243 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:19:02,709 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:19:02,709 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:20:41,396 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:20:41,396 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:21:07,582 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:21:07,582 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:21:51,453 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:21:51,453 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:23:09,752 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:23:09,752 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:24:08,308 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:24:08,308 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:24:31,990 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:24:31,990 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:25:10,082 INFO {POS} {IP-DISABLED} valid: 192.168.1.240:9002@DEFAULT@DEFAULT_GROUP@@maps-auth, region: unknown, msg: client timeout after 15000, last beat: 1615436694511
+
+2021-03-11 12:25:16,281 INFO service: DEFAULT_GROUP@@maps-auth {POS} {IP-ENABLED} valid: 192.168.1.240:9002@DEFAULT, region: unknown, msg: client beat ok
+
+2021-03-11 12:32:15,673 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:32:15,673 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:32:38,102 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:32:38,102 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:36:27,409 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:36:27,410 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:36:51,077 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:36:51,077 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:37:43,800 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:37:43,800 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:38:51,589 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:38:51,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:40:02,555 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:40:02,555 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:40:25,585 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:40:25,585 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 12:51:46,757 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:51:46,757 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 12:53:44,360 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 12:53:44,360 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 13:02:16,817 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:02:16,817 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 13:17:34,824 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:17:34,824 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 13:22:34,289 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:22:34,289 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 13:29:54,437 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:29:54,437 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 13:30:39,978 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:30:39,978 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 13:31:12,081 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:31:12,081 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 13:41:57,244 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:41:57,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 13:42:24,122 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 13:42:24,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 192.168.1.240:9002_true,
+
+2021-03-11 13:43:14,598 INFO {POS} {IP-DISABLED} valid: 192.168.1.240:9002@DEFAULT@DEFAULT_GROUP@@maps-auth, region: unknown, msg: client timeout after 15000, last beat: 1615441379191
+
+2021-03-11 13:43:17,100 INFO service: DEFAULT_GROUP@@maps-auth {POS} {IP-ENABLED} valid: 192.168.1.240:9002@DEFAULT, region: unknown, msg: client beat ok
+
+2021-03-11 14:36:29,785 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:36:29,785 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 192.168.1.240:9001_true,
+
+2021-03-11 14:38:09,161 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:38:09,161 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 
+
+2021-03-11 14:38:30,960 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:38:30,960 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 192.168.1.240:9001_true,
+
+2021-03-11 14:39:45,278 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:39:45,278 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 
+
+2021-03-11 14:40:07,606 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:40:07,606 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 192.168.1.240:9001_true,
+
+2021-03-11 14:40:17,975 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:40:17,975 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 
+
+2021-03-11 14:40:43,142 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:40:43,142 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 192.168.1.240:9001_true,
+
+2021-03-11 14:42:01,987 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:42:01,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 
+
+2021-03-11 14:42:24,210 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 14:42:24,210 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 192.168.1.240:9001_true,
+
+2021-03-11 15:05:31,045 INFO DEFAULT_GROUP@@maps-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 15:05:31,045 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-gateway, ips: 
+
+2021-03-11 15:05:48,213 INFO DEFAULT_GROUP@@maps-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.240:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-11 15:05:48,213 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@maps-auth, ips: 
+
+2021-03-11 16:33:19,848 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maps-auth:war">
+    <output-path>$PROJECT_DIR$/maps-auth/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>maps-auth</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="maps-auth-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="maps-auth:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+spring:
+  security:
+    user:
+      name: maps
+      password: 123456
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+# 集成邮箱报警
+#spring.mail.host: smtp.163.com
+#spring.mail.username: miles02
+#spring.mail.password: 123456
+#spring.boot.admin.notify.mail.to: 124746406@qq.com

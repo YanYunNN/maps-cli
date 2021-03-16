@@ -1,0 +1,30 @@
+# actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+swagger:
+  enable: true
+
+spring:
+  jpa:
+    show-sql: false
+    database: mysql
+    open-in-view: false
+    hibernate:
+      ddl-auto: update
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+#    type: com.zaxxer.hikari.HikariDataSource
+#    hikari:
+#      auto-commit: true
+#      connection-test-query: SELECT 1
+#      connection-timeout: 30000
+#      idle-timeout: 30000
+#      max-lifetime: 1800000
+#      maximum-pool-size: 15
+#      minimum-idle: 5
+    username: maps
+    password: 123456
+    url: jdbc:mysql://192.168.1.77:3306/maps-micro-auth?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true

@@ -1,0 +1,37 @@
+spring:
+  jpa:
+    show-sql: false
+    database: mysql
+    open-in-view: false
+    hibernate:
+      ddl-auto: update
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      url: jdbc:mysql://192.168.1.77:3306/maps-micro-auth?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true
+      driverClassName: com.mysql.jdbc.Driver
+      username: maps
+      password: 123456
+      initial-size: 3
+      max-active: 20
+      min-idle: 5
+      validation-query: SELECT 'x' FROM DUAL
+      max-wait: 10000
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      filters: stat,wall
+      web-stat-filter:
+        enabled: true
+        url-pattern: /*
+        exclusions: /druid/*,*.js,*.gif,*.jpg,*.bmp,*.png,*.css,*.ico
+        session-stat-enable: true
+        session-stat-max-count: 10
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        reset-enable: true
+        login-username: admin
+        login-password: admin

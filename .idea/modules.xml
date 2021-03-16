@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/maps.iml" filepath="$PROJECT_DIR$/.idea/maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maps-auth/maps-auth.iml" filepath="$PROJECT_DIR$/maps-auth/maps-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maps-dependencies/maps-dependencies.iml" filepath="$PROJECT_DIR$/maps-dependencies/maps-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maps-gateway/maps-gateway.iml" filepath="$PROJECT_DIR$/maps-gateway/maps-gateway.iml" />
+    </modules>
+  </component>
+</project>

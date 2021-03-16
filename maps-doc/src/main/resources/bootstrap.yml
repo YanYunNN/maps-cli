@@ -1,0 +1,21 @@
+# bootstrap.yml > bootstrap.yaml > bootstrap.properties > nacos > application.yml > application.yaml > application.properties
+server:
+  port: 10086
+
+# 微服务
+nacos:
+  address: 192.168.1.77:8848
+spring:
+  application:
+    name: maps-doc
+  cloud:
+    nacos:
+      # 服务发现
+      discovery:
+        server-addr: ${nacos.address}
+      # 配置中心
+      config:
+        server-addr: ${nacos.address}
+        file-extension: yaml
+        group: DEFAULT_GROUP
+        prefix: ${spring.application.name}
