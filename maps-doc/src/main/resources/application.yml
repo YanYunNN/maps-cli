@@ -13,7 +13,7 @@ knife4j:
         location: /v2/api-docs?group=default
         servicePath: /auth
       - name: 库存服务
-        serviceName: maps-ims
+        serviceName: maps-service-ims
         location: /v2/api-docs?group=default
         servicePath: /ims
 # auctor

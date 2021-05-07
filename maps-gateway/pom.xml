@@ -14,7 +14,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>maps-gateway</name>
     <description>Gateway for MAPS</description>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
@@ -65,4 +65,24 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+             <plugin>
+                 <groupId>org.springframework.boot</groupId>
+                 <artifactId>spring-boot-maven-plugin</artifactId>
+                 <version>${spring.boot.version}</version>
+                 <configuration>
+                     <fork>true</fork>
+                     <addResources>true</addResources>
+                 </configuration>
+             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <skipTests>true</skipTests>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

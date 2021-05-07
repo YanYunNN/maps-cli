@@ -58,7 +58,13 @@ public class AuthorizationManager implements ReactiveAuthorizationManager<Author
                 .filter(Authentication::isAuthenticated)
                 .flatMapIterable(Authentication::getAuthorities)
                 .map(GrantedAuthority::getAuthority)
-                .any(authorities::contains)
+                .any(role -> {
+                    // 4. roleId是请求用户的角色(格式:ROLE_{roleId})，authorities是请求资源所需要角色的集合
+                    log.info("访问路径：{}", path);
+                    log.info("用户角色roleId：{}", role);
+                    log.info("资源需要权限authorities：{}", authorities);
+                    return authorities.contains(role);
+                })
                 .map(AuthorizationDecision::new)
                 .defaultIfEmpty(new AuthorizationDecision(false));
     }

@@ -33,11 +33,11 @@ spring:
             - Path=/auth/**
           filters:
             - StripPrefix=1 # 移除前缀 auth
-        - id: maps-ims
-          uri: lb://maps-ims
+        - id: maps-service-ims
+          uri: lb://maps-service-ims
           predicates:
             - Method=GET,POST
-            - Path=/ivt/**
+            - Path=/ims/**
         - id: maps-doc
           uri: lb://maps-doc
           predicates:
@@ -47,7 +47,7 @@ spring:
         - id: maps-actuator
           uri: lb://maps-actuator
           predicates:
-            - Path=/admin/**
+            - Path=/**
           filters:
             - StripPrefix=1
 
